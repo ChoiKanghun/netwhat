@@ -12,7 +12,7 @@
 1. ipv4 ipv6는 몇 비트를 쓰는지 등에 대한 기~본적인 개념 정도만 머리 속에 넣어둔다.
 2. netwhat 전용 계산기를 만든 minckim 님의 프로그램을 켠다.
 
-- 켜는 방법 : 
+- minckim 님의 프로그램 켜는 방법 : 
   - 레포 안에 있는 `netwhat_calculator.c` 를 실행한다. (`gcc netwhat_calculator.c`)
   - 생성된 `.out` 파일을 실행한다.
 
